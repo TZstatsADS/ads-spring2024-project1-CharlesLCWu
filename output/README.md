@@ -1,5 +1,4 @@
-# ADS Project 1: What made you happy today?
+# ADS Project 1: What made USA people happy?
 ### Output folder
 
-The output directory contains analysis output, processed datasets, logs, or other processed things.
-
+The analyses is in file '5243 Project 1 Licheng Wu'
